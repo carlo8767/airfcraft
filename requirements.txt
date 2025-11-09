@@ -8,22 +8,12 @@ matplotlib>=3.8.0
 # Machine Learning and Statistical Modeling Libraries
 scikit-learn>=1.3.0
 xgboost>=2.0.0
-# ... existing requirements ...
-kagglehub
 
+# Kaggle API Tool (Note: The package name is typically 'kaggle')
+kaggle
 
-
-# Core Data Handling and Visualization
-pandas
-numpy
-matplotlib
-
-# Machine Learning Libraries
-scikit-learn
-xgboost
+# Croissant Metadata Library
+mlcroissant
 
 # API Web Framework
 Flask
-
-# Kaggle Data Access (used in the ML script)
-kagglehub
